@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+}
+html{height:100%}
+Body{
+    height: 100%;
+    Background-image: url("C:\schule\Gute Bilder\Sozial Media Bilder Videos\converted\IMGP9349.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;  
+}
+h1{color:aliceblue;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 100px;}
